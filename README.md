@@ -31,9 +31,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://www.moov-africa.ci/">API Junior Developer - Moov Africa Côte d'Ivoire</a> </b></td>
+      <td><b><a href="https://www.moov-africa.ci/">API Junior Developer Intern - Moov Africa Côte d'Ivoire</a> </b></td>
       <td>Design user and administrator APIs for a web and mobile application</td>
-      <td>August 2022 - Present</td>
+      <td>August 2022 - October 2022</td>
     </tr>
 
   </tbody>
