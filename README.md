@@ -52,14 +52,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href='#'><b>Mado</b></a></td>
+      <td><a href='https://github.com/Keldy7/assistant-vocal-personal'><b>Mado</b></a></td>
       <td>Python</td>
       <td>This is my first NLP project: a personal voice assistant named Mado that will allow you to perform tasks remotely using a smartphone through the mqtt python broker</td>
     </tr>
     <tr>
-      <td><a href='#'><b>Biblio_INP</b></a></td>
+      <td><a href='https://github.com/Keldy7/laravel-app-eLibrary'><b>Biblio_INP</b></a></td>
       <td>PHP(Laravel), HTML, CSS, JS</td>
-      <tdApplication of a digital library allowing INPHB students to download books.</td>
+      <td>Application of a digital library allowing INPHB students to download books.</td>
     </tr>
     <tr>
       <td><a href="#"><b>TicketO</b> (Private project)</a></td>
@@ -68,8 +68,8 @@
     </tr>
     <tr>
       <td><a href="#"><b>MeetHair</b> (Private project)</a></td>
-      <td>Html,Css,Javascript</td>
-      <td>its functionality look like as wordpad</td>
+      <td>React Native</td>
+      <td>Its functionality look like as WhatsApp but with a touch of hairdressers</td>
     </tr>
     <tr>
       <td><a href="#"><b>MoovConnect (Private project)</b></a></td>
@@ -77,7 +77,7 @@
       <td>Design user and administrator API </td>
     </tr>
     <tr>
-      <td><a href="#">LibArticle</a></td>
+      <td><a href="https://github.com/Keldy7/supermarket-item-management-app">LibArticle</a></td>
       <td>Java, CSS</td>
       <td></td>
     </tr>
