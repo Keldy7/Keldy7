@@ -12,11 +12,10 @@
 
 &nbsp;<h3 align="left">Connect with me 🤝:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aude marie kouassy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aude marie kouassy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aude-marie-kouassy-438528216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aude marie kouassy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19147368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19147368" height="30" width="40" /></a>
 <a href="https://kaggle.com/audemariekouassy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="audemariekouassy" height="30" width="40" /></a>
-<a href="https://instagram.com/dy_kel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dy_kel" height="30" width="40" /></a>
-<a href="https://www.behance.net/audmarie kouassy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="audmarie kouassy" height="30" width="40" /></a>
+<a href="https://www.behance.net/audmariekouassy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="audmarie kouassy" height="30" width="40" /></a>
 </p>&nbsp;
 
 <h3 align="left">Languages and Tools  🛠:</h3>
@@ -70,6 +69,11 @@
       <td><a href="#"><b>MeetHair</b> (Private project)</a></td>
       <td>React Native</td>
       <td>Its functionality look like as WhatsApp but with a touch of hairdressers</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Keldy7/wine-project"><b>WineShop</b></a></td>
+      <td>Flutter</td>
+      <td>WineShop the perfect platform for wine enthusiasts to discover new wines and purchase their favorites.</td>
     </tr>
     <tr>
       <td><a href="#"><b>MoovConnect (Private project)</b></a></td>
