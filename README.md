@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, < I'm Aude Marie Kouassy /> </h1>
-<h3 align="center">A passionate software developer and 3nd year student in Computer Sciences from Côte d'Ivoire</h3>
+<h3 align="center">A passionate software developer and 3rd year student in Computer Sciences from Côte d'Ivoire</h3>
 <img align="right" alt="Picture of coding" width="350" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 📚 I’m currently learning **API development with Node Js and Docker**
@@ -15,7 +15,6 @@
 <a href="https://www.linkedin.com/in/aude-marie-kouassy-438528216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aude marie kouassy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19147368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19147368" height="30" width="40" /></a>
 <a href="https://kaggle.com/audemariekouassy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="audemariekouassy" height="30" width="40" /></a>
-<a href="https://www.behance.net/audmariekouassy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="audmarie kouassy" height="30" width="40" /></a>
 </p>&nbsp;
 
 <h3 align="left">Languages and Tools  🛠:</h3>
@@ -37,8 +36,8 @@
       <td>August 2022 - October 2022</td>
     </tr>
     <tr>
-      <td><b><a href="#">Mobile freelance developer - #</a> </b></td>
-      <td>Develop ui design for a health app</td>
+      <td><b><a href="#">Mobile freelance developer - Enovpharm</a> </b></td>
+      <td>Develop a e-vaccination mobile app</td>
       <td>April 2023 - September 2023</td>
     </tr>
 
