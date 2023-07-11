@@ -38,7 +38,7 @@
     <tr>
       <td><b><a href="#">Mobile freelance developer - Enovpharm</a> </b></td>
       <td>Develop a e-vaccination mobile app</td>
-      <td>April 2023 - September 2023</td>
+      <td>April 2023 - July 2023</td>
     </tr>
 
   </tbody>
