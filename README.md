@@ -273,6 +273,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/Keldy7/CTFs_Writeups"><b>CTFs Writeups</b></a></td>
+      <td>Stegano, Crypto, Network, Pwn, Web, OSINT, Rev...</td>
+      <td>Writeups for various CTFs competitions in which I took part</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Keldy7/assistant-vocal-personal"><b>Mado</b></a></td>
       <td>Python (NLP)</td>
       <td>This is my first NLP project: a personal voice assistant named Mado that will allow you to perform tasks remotely using a smartphone through the mqtt python broker</td>
