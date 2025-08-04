@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hello World <img src="https://media.giphy.com/media/d91mOUkiBnKjgMhjBp/giphy.gif" width="35"> </h1>
 &nbsp; 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=22&pause=1000&color=F77110&center=true&vCenter=true&random=false&width=450&height=55&lines=%3C+I'm+Aude+Marie+Kouassy+%2F%3E;Active+learner+%2F+researcher%2C;Cybersecurity+and+AI+student%2C;CTF+Player%2C;OSCP+aspirant."/></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=22&pause=1000&color=F77110&center=true&vCenter=true&random=false&width=730&height=60&lines=%3C+I'm+Aude+Marie+K.+%2F%3E;Active+learner+%2F+researcher%2C;Cybersecurity+and+AI+student%2C;Offensive+Security+Engineer+and+CTF+Enthusiast%2C;OSCP+aspirant."/></a></p>
 
 <img align="right" alt="Picture of coding" width="350" src="https://raw.githubusercontent.com/F745H/F745H/main/Assets/about_me.gif">
 
 
-- 🌱 I'm particularly interested in **machine learning** and **network security**.
+- 🌱 I'm particularly interested in **Machine learning** and **Penetrations tests**.
   
 - 💞️ I’m looking to collaborate with cybersecurity python projects.
   
@@ -13,15 +13,9 @@
   
 - 💡 Occasionaly I do participate in CTF (Capture The Flag) and Hackathons
 
-- 📫 How to reach me **audmariekouassy@gmail.com**
+- 📫 How to reach me... By my <a href="https://www.linkedin.com/in/aude-marie-k-438528216/" target="blank">LinkedIn Profile</a>
 
-&nbsp; 
-> <h3 align="left">Connect with me 🤝:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aude-marie-kouassy-438528216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn profile" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19147368" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="Stackoverflow profile" height="30" width="40" /></a>
-<a href="https://kaggle.com/audemariekouassy" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle profile" height="30" width="40" /></a>
-</p>&nbsp;
+&nbsp;
 
 > <h3 align="left">Progamming Languages 👩🏽‍💻:</h3>
 
@@ -32,6 +26,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://fr.wikipedia.org/wiki/Bourne-Again_shell" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
     </td>
     <td align="center" width="96">
       <a href="https://www.mysql.com/en/" target="_blank" rel="noreferrer">
@@ -56,12 +56,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
       </a>
       <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="https://fr.wikipedia.org/wiki/Bourne-Again_shell" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
     </td>
     </tr>
 </table>
@@ -90,10 +84,10 @@
       <br>Scikit-learn
     </td>
     <td align="center" width="96">
-      <a href="https://plotly.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly" />
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="Plotly" />
       </a>
-      <br>Plotly
+      <br>TensorFlow
     </td>
     <td align="center" width="96">
       <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
@@ -110,7 +104,7 @@
 </table>
 
 &nbsp; 
-> <h3 align="left">Softwares and Tools  🛠:</h3>
+> <h3 align="left">Tools and Softwares 🛠:</h3>
 
 <table>
   <tr>
@@ -174,13 +168,6 @@
       </a>
       <br>Sqlmap
     </td>
-    <td align="center" width="96">
-      <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="48" height="48" alt="Aircrack-Ng" />
-      </a>
-      <br>Aircrack-Ng
-    </tr>
-  </td>
   <tr>
     <td align="center" width="96">
       <a href="https://www.sleuthkit.org/autopsy/" target="_blank" rel="noreferrer">
@@ -189,10 +176,10 @@
       <br>Autopsy
     </td>
     <td align="center" width="96">
-      <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="48" height="48" alt="Maltego" />
+      <a href="https://github.com/mpgn/CrackMapExec" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" width="48" height="48" alt="crackmapexec" />
       </a>
-      <br>Maltego
+      <br>Crackmap
     </td>
     <td align="center" width="96">
       <a href="http://www.hping.org/" target="_blank" rel="noreferrer">
@@ -201,6 +188,49 @@
       <br>hping
     </td>
     <td align="center" width="96">
+      <a href="https://github.com/SpecterOps/BloodHound" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" width="48" height="48" alt="bloodhound" />
+      </a>
+      <br>Bloodhound
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Pennyw0rth/NetExec" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/netexec/images/netexec-logo.svg" width="48" height="48" alt="netexec" />
+      </a>
+      <br>Netexec
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="48" height="48" alt="Aircrack-Ng" />
+      </a>
+      <br>Aircrack-Ng
+    </td>
+   <td align="center" width="96">
+      <a href="https://www.trustedsec.com/downloads/social-engineer-toolkit/" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/set/images/set-logo.svg" width="48" height="48" alt="setoolkit" />
+      </a>
+      <br>SEToolkit
+    </td>
+    <td align="center" width="96">
+      <a href="https://gitlab.com/kalilinux/packages/impacket-scripts" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/impacket-scripts/images/impacket-scripts-logo.svg" width="48" height="48" alt="Impacket-Scripts" />
+      </a>
+      <br>Impacket
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="48" height="48" alt="Maltego" />
+      </a>
+      <br>Maltego
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/P0cL4bs/wifipumpkin3" target="_blank" rel="noreferrer">
+        <img src="https://www.kali.org/tools/wifipumpkin3/images/wifipumpkin3-logo.svg" width="48" height="48" alt="wifipumpkin3" />
+      </a>
+      <br>wifipumpkin
+    </td>
+  <tr>
+    <td align="center" width="96">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
       </a>
@@ -208,9 +238,15 @@
     </td>
     <td align="center" width="96">
       <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="46" height="46" alt="Vs Code" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="46" height="46" alt="VS Code" />
       </a>
-      <br>Visual Studio Code
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="https://vscodium.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscodium/vscodium-original.svg" alt="VS Codium" width="48" height="48"/>
+      </a>
+      <br>VS Codium
     </td>
     <td align="center" width="96">
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -236,7 +272,7 @@
       <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/F745H/F745H/main/Assets/kali.png" width="48" height="48" alt="Kali" />
       </a>
-      <br>kali
+      <br>Kali
     </td>
     <td align="center" width="96">
       <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
@@ -245,16 +281,22 @@
       <br>Windows
     </td>
     <td align="center" width="96">
+      <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96">
       <a href="https://www.debian.org/index.fr.html" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/F745H/F745H/main/Assets/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
     </td>
     <td align="center" width="96">
-      <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="48" height="48" alt="Ubuntu" />
+      <a href="https://www.debian.org/index.fr.html" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="48" height="48" alt="MacOS" />
       </a>
-      <br>Ubuntu
+      <br>MacOS
     </td>
     </tr>
 </table>
@@ -278,21 +320,6 @@
       <td>Writeups for various CTFs competitions in which I took part</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Keldy7/assistant-vocal-personal"><b>Mado</b></a></td>
-      <td>Python (NLP)</td>
-      <td>This is my first NLP project: a personal voice assistant named Mado that will allow you to perform tasks remotely using a smartphone through the mqtt python broker</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Keldy7/honeypot_ml_project"><b>Honeypot</b></a></td>
-      <td>Python (Machine learning : Linear regression)</td>
-      <td>The aim of the project is to analyze network traffic data to understand how cloud server geography can influence the influx of attacks.</td>
-    </tr>
-    <tr>
-      <td><a href="#"><b>Det3ct'Anomaly</b> (Private project)</a></td>
-      <td>Python (Machine learning : Isolation Forest, OneClass SVM, Local Outlier Factor)</td>
-      <td>A project to detect anomalies in user behavior via DHCP proxy server logs</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/Keldy7/machine_learning_python"><b>Supervised learning exercises</b></a></td>
       <td>Python (Machine learning : Supervised learning)</td>
       <td>Practical work on supervised learning</td>
@@ -302,8 +329,20 @@
       <td>Python (Machine learning : Unupervised learning)</td>
       <td>Practical work on Clustering</td>
     </tr>
+    <tr>
+      <td><a href="#"><b>Mado (Private project)</b></a></td>
+      <td>Python (NLP)</td>
+      <td>This is my first NLP project: a personal voice assistant named Mado that will allow you to perform tasks remotely using a smartphone through the mqtt python broker</td>
+    </tr>
+    <tr>
+      <td><a href="#"><b>Honeypoter (Private project)</b></a></td>
+      <td>Python (Machine learning : Linear regression)</td>
+      <td>The aim of the project is to analyze network traffic data to understand how cloud server geography can influence the influx of attacks.</td>
+    </tr>
+    <tr>
+      <td><a href="#"><b>Det3ct'Anomaly</b> (Private project)</a></td>
+      <td>Python (Machine learning : Isolation Forest, OneClass SVM, Local Outlier Factor)</td>
+      <td>A project to detect anomalies in user behavior via DHCP proxy server logs</td>
+    </tr>
   </tbody>
 </table>
-&nbsp; 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keldy7&show_icons=true&locale=en&layout=compact" alt="Percentage of programming languages used" /></p>
